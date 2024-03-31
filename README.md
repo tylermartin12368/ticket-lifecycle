@@ -32,20 +32,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![20240319_004843](https://github.com/tylermartin12368/ticket-lifecycle/assets/161632103/1889fe43-dd02-4e89-b759-d3d02fc42e4b)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Users are able to place tickets through the support center. The user will enter their information and then select a Help Topic. Once a Help Topic has been chosen, then a drop box will appear where the user will be able to describe the issue they are experiencing.
 </p>
 <br />
 
 ![20240319_005830](https://github.com/tylermartin12368/ticket-lifecycle/assets/161632103/b2e86871-0710-43d9-8f91-983a5a3efaf0)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once tickets have been placed, then they will appear in OSticket. When they appear in the system, we notice that it shows a description of the problem and who created the ticket. We can open each one up and get even more information. Admins will be able to assign tickets to help desk workers, decide the priority and SLA plan the ticket will have, and the department that will be responsible for the issue.  
 </p>
 <br />
 
 ![20240319_010450](https://github.com/tylermartin12368/ticket-lifecycle/assets/161632103/7d65248d-8d39-4726-99e2-44833b14dd1f)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once we have decided who will work the ticket, then work can begin on solving the issue. This ticket that was created is describing an issue that is having impacts on the bussiness. The admin takes the ticket to work on and begins communicating through the threads to show that the ticket has been noticed and is being worked on. Comments can be also left in the thread to communicate what the plan for resolving the ticket is and how progress is going on the resolution of the problem. Once the issue is resolved, then a final comment can be made that will communicate what caused the issue for the problem and we can change the ticket status to resolved.   
 </p>
 <br />
