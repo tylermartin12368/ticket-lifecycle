@@ -46,6 +46,6 @@ Once tickets have been placed, then they will appear in OSticket. When they appe
 ![20240319_010450](https://github.com/tylermartin12368/ticket-lifecycle/assets/161632103/7d65248d-8d39-4726-99e2-44833b14dd1f)
 </p>
 <p>
-Once we have decided who will work the ticket, then work can begin on solving the issue. This ticket that was created is describing an issue that is having impacts on the bussiness. The admin takes the ticket to work on and begins communicating through the threads to show that the ticket has been noticed and is being worked on. Comments can be also left in the thread to communicate what the plan for resolving the ticket is and how progress is going on the resolution of the problem. Once the issue is resolved, then a final comment can be made that will communicate what caused the issue for the problem and we can change the ticket status to resolved.   
+Once we have decided who will work the ticket, then work can begin on solving the issue. This ticket that was created is describing an issue that is having impacts on the business. The admin takes the ticket to work on and begins communicating through the threads to show that the ticket has been noticed and is being worked on. Comments can be also left in the thread to communicate what the plan for resolving the ticket is and how progress is going on the resolution of the problem. Once the issue is resolved, then a final comment can be made that will communicate what caused the issue for the problem and we can change the ticket status to resolved.   
 </p>
 <br />
