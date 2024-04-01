@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![20240319_004843](https://github.com/tylermartin12368/ticket-lifecycle/assets/161632103/1889fe43-dd02-4e89-b759-d3d02fc42e4b)
 </p>
 <p>
-Users are able to place tickets through the support center. The user will enter their information and then select a Help Topic. Once a Help Topic has been chosen, then a drop box will appear where the user will be able to describe the issue they are experiencing.
+Users are able to place tickets through the support center. The user will enter their information and then select a Help Topic. Once a Help Topic has been chosen, then a drop box will appear where the user will be able to describe the issue they are experiencing. After all information is filled out, then the User will click on create ticket. 
 </p>
 <br />
 
